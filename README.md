@@ -28,3 +28,10 @@ You will be asked if you want to print out your results with your name (Y/N).
 Important is you own printer.
 
 Have fun!
+
+## Requirements
+Sharp PC-1262 or other BASIC-compatible with 2x24 character display
+
+Printer (for printing your Results) (optional)
+
+Tape Recorder (15 tape counters) (for saving the program) (optional)
